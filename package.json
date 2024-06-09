@@ -1,6 +1,6 @@
 {
-  "homepage": "https://benasi000.github.io/SoulBikes",
   "name": "soulbikespage",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
