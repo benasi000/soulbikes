@@ -2,8 +2,7 @@
   "name": "soulbikespage",
   "homepage": "https://benasi000.github.io/soulbikes",
   "version": "0.1.0",
-  "private": false,
-  "heading":"./",
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
