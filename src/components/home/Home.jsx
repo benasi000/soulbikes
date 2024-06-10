@@ -6,7 +6,7 @@ import Prednost from './prednostHome/Prednost'
 import ImgStrip from './tripImgStrip/ImgStrip'
 import Header from "./Header/Header";
 import Footer from "../Footer/Footer";
-import Cards from './Cards/Cards'
+import Cards from './Cards/Cards';
 
 const Home = () => {
   return (

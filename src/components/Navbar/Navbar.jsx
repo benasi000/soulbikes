@@ -23,8 +23,6 @@ const Navbar = () => {
      <div className="navbar__collapse">
       <ul className="navbar__nav">
         <li className="nav__item">
-          {/* <a href = "#home" className="nav__link text__upper fw__6
-          text__light ">Domov</a> */}
           <Link to='/'  className="nav__link text__upper fw__6
           text__light ">Domov</Link>
         </li>

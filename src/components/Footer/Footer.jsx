@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
 
 const Footer = () => {
     return (
@@ -22,14 +22,6 @@ const Footer = () => {
                         <ul className="footer__links">
                             <li><Link to='/'  className="nav__link text__upper fw__6
                                 text__light ">Domov</Link></li>
-                            <li><Link to='/about' className="nav__link text__upper fw__6
-                                text__light ">Onas</Link></li>
-                            <li><Link to='/gallery' className="nav__link text__upper fw__6
-                                text__light ">Galerija</Link></li>
-                            <li><Link to='/buy' className="nav__link text__upper fw__6
-                                text__light ">Nakup</Link></li>
-                            <li><Link to='/trip' className="nav__link text__upper fw__6
-          text__light ">Izleti</Link></li>
                         </ul>
                     </div>
 
