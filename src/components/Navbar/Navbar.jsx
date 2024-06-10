@@ -25,7 +25,7 @@ const Navbar = () => {
         <li className="nav__item">
           {/* <a href = "#home" className="nav__link text__upper fw__6
           text__light ">Domov</a> */}
-          <Link to='/home'  className="nav__link text__upper fw__6
+          <Link to='/'  className="nav__link text__upper fw__6
           text__light ">Domov</Link>
         </li>
         <li className="nav__item">
@@ -55,7 +55,7 @@ const Navbar = () => {
         </button>
         <ul className="navbar__nav--smallscreen text__light">
           <li className="nav__item">
-            <Link to='/home' className="nav__link text__upper fw__6 nav__active text__light">
+            <Link to='/' className="nav__link text__upper fw__6 nav__active text__light">
               Domov
             </Link>
           </li>

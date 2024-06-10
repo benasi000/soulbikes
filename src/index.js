@@ -11,7 +11,7 @@ import Galerija from './components/galerija/Galerija';
 import Trip from './components/trip/Trip';
 
 const router = createBrowserRouter([
-  {path: "/home", element: <Home/>},
+  {path: "/", element: <Home/>},
   {path: "/about", element: <About/>},
   {path: "/buy", element: <Buy/>},
   {path: "/motor", element: <Motor/>},
