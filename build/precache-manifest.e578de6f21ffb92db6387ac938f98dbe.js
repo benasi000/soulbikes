@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0569045c779aec9d1a62470726d5b388",
+    "revision": "e4f97b92a310fa94dfb812b6cda04d5e",
     "url": "/soulbikes/index.html"
   },
   {
-    "revision": "619c719bc45daac1c16d",
+    "revision": "62a1104c47ccfb1fb8cc",
     "url": "/soulbikes/static/css/main.9eab5594.chunk.css"
   },
   {
-    "revision": "7c276553316b948cc03f",
-    "url": "/soulbikes/static/js/2.6fab7127.chunk.js"
+    "revision": "623febf0d732ea7ed792",
+    "url": "/soulbikes/static/js/2.788eae0a.chunk.js"
   },
   {
-    "revision": "619c719bc45daac1c16d",
-    "url": "/soulbikes/static/js/main.9b641a09.chunk.js"
+    "revision": "62a1104c47ccfb1fb8cc",
+    "url": "/soulbikes/static/js/main.ce383802.chunk.js"
   },
   {
     "revision": "99cb3565e11c6e4062fc",
