@@ -108,6 +108,7 @@
   font-size: 1.5rem;
   font-weight: bolder;
   transition: var(--transition);
+  border-radius: 10px;
 }
 
 .btn__gold{
