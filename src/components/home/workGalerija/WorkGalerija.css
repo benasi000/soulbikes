@@ -32,19 +32,19 @@
 }
 
 @media screen and (min-width: 678px){
- .work__content{
+    .work__content{
      grid-template-columns: repeat(2, 1fr);
  }
 }
 
 @media screen and (min-width: 800px){
- .work__content{
+    .work__content{
      grid-template-columns: repeat(3, 1fr);
  }
 }
 
 @media screen and (min-width: 1200px){
- .work__content{
+    .work__content{
      grid-template-columns: repeat(4, 1fr);
  }
 }
@@ -89,3 +89,4 @@
 .modal__close--btn:hover{
  color: var(--dark-color)!important;
 }
+

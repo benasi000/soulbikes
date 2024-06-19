@@ -6,7 +6,7 @@ import './Cards.css'
 const Cards = () => {
   return (
    <>
-   {/* <div className='card__container'>
+   <div className='card__container'>
     <div className='card'>
      <img src={images.motor} alt='' />
      <div className='card__content'>
@@ -70,23 +70,8 @@ const Cards = () => {
      </div>
     </div>
 
-   </div> */}
+   </div>
    
-   <div className='slide-container'>
-    <div className='slide-content'>
-      <div className='card__container'>
-        <div className='card'>
-          <img src={images.motor} alt='' />
-          <div className='card__content'>
-            <h3>Motor</h3>
-            <p>Motor je srce kolesa, zato je izrednega pomena, da je motor zmogljiv in ima ob veliki moči tudi optimalen navor.
-              NOVI posodobljen Bafang M510 je motor, ki vas bo presenetil s svojo neverjetno močjo in Max 95Nm navora, hkrati pa vas bo popeljal po strminah, za katere si ne predstavljate, da ste jih sploh zmožni prevoziti.</p>
-            <Link to="/motor" className='btn btn__gold'>Preberi več</Link>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
    </>
   )
 }
