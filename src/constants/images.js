@@ -37,6 +37,7 @@ import Soul_32 from "../assets/images/Soul-32.jpg";
 import Soul_34 from "../assets/images/Soul-34.jpg";
 import Soul_36 from "../assets/images/Soul-36.jpg";
 import Soul_37 from "../assets/images/Soul-37.jpg";
+import logoImg from "../assets/images/result.png";
 
 //About
 import Header_Background_About from "../assets/images/Soul-About-Background.png"
@@ -98,5 +99,6 @@ export default{
     Soul_32,
     Soul_34,
     Soul_36,
-    Soul_37
+    Soul_37,
+    logoImg
 };

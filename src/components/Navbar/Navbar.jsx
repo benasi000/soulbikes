@@ -12,7 +12,14 @@ const Navbar = () => {
    <div className="container flex">
     <div className="brand__and__toggler flex">
       <a href="index.html" alt="" className="navbar__brand">
-       <img src={images.logo} alt="site logo"/> 
+        <div className="row">
+          <div className="column">
+          <img src={images.logoImg} alt="site logo" className="logo2"/> 
+          </div>
+          <div className="column">
+          <img src={images.logo} alt="site logo"/> 
+          </div>
+        </div>
       </a>
       <button type="button" className="navbar__open--btn text__light"
       onClick={() => setToggleMenu(true)}>

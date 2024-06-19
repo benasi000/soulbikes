@@ -7,7 +7,6 @@ import Motor from './components/bikeComponents/motor/Motor'
 import Galerija from './components/galerija/Galerija';
 import About from './components/About/About';
 
-
 function App() {
   return (
     <div className="holder">
@@ -18,6 +17,7 @@ function App() {
           <Route path='/motor' element={<Motor />}/>
           <Route path='/gallery' element={<Galerija />}/>
         </Routes>
+
     </div>
   );
 }

@@ -10,10 +10,11 @@
  line-height: 1.2;
  color: var(--white-color)
 }
-.header__title2{
+.header__titleMini{
  font-size: 2.0rem;
  line-height: 1.2;
- color: var(--gold-color)
+ color: var(--white-color);
+ padding-bottom: 15px;
 }
 .header__content .para__text{
  padding: 3.6rem 0;

@@ -3,6 +3,7 @@
 }
 .navbar__brand img{
  width: 280px;
+ display: flex;
 }
 .brand__and__toggler{
  align-items: center;
@@ -77,4 +78,16 @@
  .navbar__smallscreen{
      display: none;
  }
+}
+
+.logo2{
+    width: 5rem !important;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+.column {
+    flex: 33.33%;
 }

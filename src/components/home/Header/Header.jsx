@@ -15,8 +15,10 @@ function Header() {
     <div className="header__content text__center text__light flex flex__center">
      <div className="header__content--left"></div>
       <div className="header__content--right">
-       <h3 className="header__title2 fW__6">Karbonska električna gorska kolesa</h3>
-       <h1 className="header__title fw__8">SOUL BIKES </h1>
+      <h3 className="header__titleMini fW__6 pt-2">Karbonska električna gorska kolesa</h3>
+       <h1 className="header__title fw__8 ">
+       <img src={images.logo} alt="site logo"/> 
+       </h1>
         <Link to="/buy" className="btn btn__gold">Test Koles</Link>
         <Link to="/group" className="btn btn__gold">Izleti</Link>
       </div>
