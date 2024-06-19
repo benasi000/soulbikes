@@ -36,54 +36,9 @@
  width: 100%;
  background-color: grey;
  padding: 40px;
- margin: 15px;
+ margin: 15pxnp;
 }
 
 .slide-content{
  margin: 0 40px;
 }
-
-/* .card-image{
- position: relative;
- height: 200px;
- width: 100%;
- object-fit: cover;
-}
-
-.card-image .card-img{
- height: 100%;
- width: 100%;
- object-fit: cover;
-}
-
-.card{
- width: 320px;
- border-radius: 25px;
- background-color: #f0f0f0;
-}
-
-.slide-content{
- margin:  0 40px;
-}
-
-.card-content, .image-content{
- padding: 10px 14px;
- display: flex;
- flex-direction: column;
- align-items: center;
-}
-
-.image-content{
- row-gap: 5px;
-}
-
-.part{
- font-size: 18px;
- font-weight: bolder;
- color: #333; 
- margin-bottom: 8px;
-}
-
-.btn{
-transition: all 0.3 ease;
-} */
