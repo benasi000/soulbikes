@@ -38,10 +38,6 @@ const Navbar = () => {
           <Link to='/buy' className="nav__link text__upper fw__6
           text__light ">Nakup</Link>
         </li>
-        <li className="nav__item">
-          <Link to='/trip' className="nav__link text__upper fw__6
-          text__light ">Izleti</Link>
-        </li>
       </ul>
      </div>
 
@@ -69,11 +65,6 @@ const Navbar = () => {
           <li className="nav__item">
             <Link to='/buy' className="nav__link text__upper fw__6 text__light">
               Nakup
-            </Link>
-          </li>
-          <li className="nav__item">
-            <Link to='/trip' className="nav__link text__upper fw__6 text__light">
-              Izleti
             </Link>
           </li>
         </ul>

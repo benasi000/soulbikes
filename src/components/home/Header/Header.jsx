@@ -17,11 +17,8 @@ function Header() {
       <div className="header__content--right">
        <h3 className="header__title2 fW__6">Karbonska električna gorska kolesa</h3>
        <h1 className="header__title fw__8">SOUL BIKES </h1>
-       <p className="para__text">Pri nas nakup E-kolesa jemljemo zelo resno. 
-        In ker na svetu ne obstajata niti dve popolnoma enaki osebi, 
-        se vsakemu kupcu posvetimo osebno. Samo tako lahko izberete optimalno kolo za vas.</p>
         <Link to="/buy" className="btn btn__gold">Test Koles</Link>
-        <Link to="/group" className="btn btn__gold">Skupinska vožnja</Link>
+        <Link to="/group" className="btn btn__gold">Izleti</Link>
       </div>
      </div>
     </div>

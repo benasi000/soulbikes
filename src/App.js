@@ -5,7 +5,6 @@ import Home from './components/home/Home';
 import Buy from './components/nakup/Buy';
 import Motor from './components/bikeComponents/motor/Motor'
 import Galerija from './components/galerija/Galerija';
-import Trip from './components/trip/Trip';
 import About from './components/About/About';
 
 
@@ -18,7 +17,6 @@ function App() {
           <Route path='/buy' element={<Buy />}/>
           <Route path='/motor' element={<Motor />}/>
           <Route path='/gallery' element={<Galerija />}/>
-          <Route path='/trip' element={<Trip />}/>
         </Routes>
     </div>
   );
