@@ -17,9 +17,10 @@ const Home = () => {
     <Header />
     <About />
     <Cards />
-    <NewGallery />
+    <WorkGal />
     <Prednost />
     <ImgStrip />
+    <Contact />
     <ScrollButton />
     <Footer />
    </>

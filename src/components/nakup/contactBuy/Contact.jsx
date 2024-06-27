@@ -1,7 +1,28 @@
-import React from "react";
+import React, { useRef } from "react";
 import "./Contact.css";
+import emailjs from '@emailjs/browser';
+
 
 const Contact = () => {
+
+        const form = useRef();
+      
+        const sendEmail = (e) => {
+          e.preventDefault();
+      
+          emailjs
+            .sendForm('service_9s5odes', 'template_ffzb34g', form.current, {
+              publicKey: 'orppStexEZQ7lMCfC',
+            })
+            .then(
+              () => {
+                console.log('SUCCESS!');
+              },
+              (error) => {
+                console.log('FAILED...', error.text);
+              },
+            );
+        };
     return (
         <div className="contact section__padding bg__whitesmoke">
             <div className="container">
@@ -10,16 +31,13 @@ const Contact = () => {
                 lahko se pa tudi prijavite za organizirano skupinsko vožnjo</p>
 
                 <div className="contact__content">
-                    <form>
+                    <form ref={form} onSubmit={sendEmail}>
                         <div className="form__elem form__elem--2">
-                            <input type = "text" className="form__control" placeholder="Vaše ime" />
-                            <input type = "text" className="form__control" placeholder="Vaš email" />
+                            <input type = "text" name="from_name" className="form__control" placeholder="Vaše ime" />
+                            <input type = "email" name="from_email" className="form__control" placeholder="Vaš email" />
                         </div>
                         <div className="form__elem">
-                            <input type = "text" className="form__control" placeholder="Naslov" />
-                        </div>
-                        <div className="form__elem">
-                            <textarea className="form__control" placeholder="Your Comment" rows = "6"></textarea>
+                            <textarea className="form__control" name="message" placeholder="Sporočilo" rows = "6"></textarea>
                         </div>
                         <button type = "submit" className="form__submit--btn btn btn__gold">Pošlji sporočilo</button>
                     </form>
@@ -29,5 +47,6 @@ const Contact = () => {
 
     )
 }
+
 
 export default Contact;
