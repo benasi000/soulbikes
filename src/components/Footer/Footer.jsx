@@ -63,7 +63,7 @@ const Footer = () => {
                     </div>
                     <div className="sb__footer-links-div">
                         <h4>Soul adventures</h4>
-                        <a href="https://www.soul-adventures.com" target="_blank">
+                        <a href="https://www.soul-adventures.com">
                             <p>Spletna stran</p>
                         </a>
                     </div>
