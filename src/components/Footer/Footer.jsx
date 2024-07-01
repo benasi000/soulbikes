@@ -51,18 +51,10 @@ const Footer = () => {
                 <div className="sb__footer-links">
                     <div className="sb__footer-links-div">
                         <h4>Soul Bikes</h4>
-                        <a href="/">
-                            <p>Domov</p>
-                        </a>
-                        <a href="/about">
-                            <p>O nas</p>
-                        </a>
-                        <a href="/gallery">
-                            <p>Galerija</p>
-                        </a>
-                        <a href="/buy">
-                            <p>Nakup</p>
-                        </a>
+                        <Link to="/" className="a">Domov</Link>
+                        <Link to="/about" className="a">O nas</Link>
+                        <Link to="/gallery" className="a">Galerija</Link>
+                        <Link to="/buy" className="a">Nakup</Link>
                     </div>
                     <div className="sb__footer-links-div">
                         <h4>Contact</h4>
@@ -71,7 +63,7 @@ const Footer = () => {
                     </div>
                     <div className="sb__footer-links-div">
                         <h4>Soul adventures</h4>
-                        <a href="/">
+                        <a href="https://www.soul-adventures.com" target="_blank">
                             <p>Spletna stran</p>
                         </a>
                     </div>
