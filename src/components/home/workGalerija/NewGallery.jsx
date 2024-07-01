@@ -1,7 +1,6 @@
 import React from 'react';
 import LightGallery from 'lightgallery/react';
 import data from "../../../constants/data";
-import images from "../../../constants/images";
 import "./WorkGalerija.css";
 
 // import styles

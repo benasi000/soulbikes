@@ -8,7 +8,6 @@ import ImgStrip from './tripImgStrip/ImgStrip'
 import Header from "./Header/Header";
 import Footer from "../Footer/Footer";
 import Cards from './Cards/Cards';
-import NewGallery from './workGalerija/NewGallery'
 import ScrollButton from './../ScrollButton/ScrollButton'
 
 const Home = () => {
