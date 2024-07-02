@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/soulbikes/static/css/main.0d45f2e5.chunk.css",
-    "main.js": "/soulbikes/static/js/main.1a50b242.chunk.js",
-    "main.js.map": "/soulbikes/static/js/main.1a50b242.chunk.js.map",
-    "runtime~main.js": "/soulbikes/static/js/runtime~main.57d8eaa4.js",
-    "runtime~main.js.map": "/soulbikes/static/js/runtime~main.57d8eaa4.js.map",
-    "static/js/2.86b9cea9.chunk.js": "/soulbikes/static/js/2.86b9cea9.chunk.js",
-    "static/js/2.86b9cea9.chunk.js.map": "/soulbikes/static/js/2.86b9cea9.chunk.js.map",
+    "main.css": "/soulbikes/static/css/main.a54200ab.chunk.css",
+    "main.js": "/soulbikes/static/js/main.155726a0.chunk.js",
+    "main.js.map": "/soulbikes/static/js/main.155726a0.chunk.js.map",
+    "runtime-main.js": "/soulbikes/static/js/runtime-main.87fb459a.js",
+    "runtime-main.js.map": "/soulbikes/static/js/runtime-main.87fb459a.js.map",
+    "static/js/2.cb33eb6e.chunk.js": "/soulbikes/static/js/2.cb33eb6e.chunk.js",
+    "static/js/2.cb33eb6e.chunk.js.map": "/soulbikes/static/js/2.cb33eb6e.chunk.js.map",
     "index.html": "/soulbikes/index.html",
-    "precache-manifest.85f81c20f24e8e345be29f6c3e4c35d2.js": "/soulbikes/precache-manifest.85f81c20f24e8e345be29f6c3e4c35d2.js",
+    "precache-manifest.15a8cc559d3f92071af944df0561b439.js": "/soulbikes/precache-manifest.15a8cc559d3f92071af944df0561b439.js",
     "service-worker.js": "/soulbikes/service-worker.js",
-    "static/css/main.0d45f2e5.chunk.css.map": "/soulbikes/static/css/main.0d45f2e5.chunk.css.map",
+    "static/css/main.a54200ab.chunk.css.map": "/soulbikes/static/css/main.a54200ab.chunk.css.map",
+    "static/js/2.cb33eb6e.chunk.js.LICENSE.txt": "/soulbikes/static/js/2.cb33eb6e.chunk.js.LICENSE.txt",
     "static/media/Header_bg.jpg": "/soulbikes/static/media/Header_bg.bd113129.jpg",
     "static/media/Prednost.jpg": "/soulbikes/static/media/Prednost.021e5b84.jpg",
     "static/media/ImgStrip.css": "/soulbikes/static/media/Section-2.96172b22.png",
@@ -57,6 +58,15 @@
     "static/media/Soul-motor2.png": "/soulbikes/static/media/Soul-motor2.4809872f.png",
     "static/media/Soul-vzmetenje-zad.jpg": "/soulbikes/static/media/Soul-vzmetenje-zad.84be636c.jpg",
     "static/media/Soul-zavore.jpg": "/soulbikes/static/media/Soul-zavore.1a17ecdb.jpg",
-    "static/media/Soul-zvmetenje-pred.png": "/soulbikes/static/media/Soul-zvmetenje-pred.83548b9d.png"
-  }
+    "static/media/Soul-zvmetenje-pred.png": "/soulbikes/static/media/Soul-zvmetenje-pred.83548b9d.png",
+    "static/media/instagram.png": "/soulbikes/static/media/instagram.5c570427.png",
+    "static/media/linkedin.png": "/soulbikes/static/media/linkedin.d492efc7.png",
+    "static/media/result.png": "/soulbikes/static/media/result.4124591b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87fb459a.js",
+    "static/js/2.cb33eb6e.chunk.js",
+    "static/css/main.a54200ab.chunk.css",
+    "static/js/main.155726a0.chunk.js"
+  ]
 }
