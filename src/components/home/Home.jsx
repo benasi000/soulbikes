@@ -7,7 +7,7 @@ import Prednost from './prednostHome/Prednost'
 import ImgStrip from './tripImgStrip/ImgStrip'
 import Header from "./Header/Header";
 import Footer from "../Footer/Footer";
-import Cards from './Cards/Cards';
+import Card from './Cards/Cards';
 import ScrollButton from './../ScrollButton/ScrollButton';
 import SoulAdventure from './SoulAdventure/SoulAdventure';
 
@@ -16,7 +16,7 @@ const Home = () => {
    <>
     <Header />
     <About />
-    <Cards />
+    <Card />
     <WorkGal />
     <Prednost />
     <ImgStrip />

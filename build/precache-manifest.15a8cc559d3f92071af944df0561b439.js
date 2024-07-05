@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51cdc51596547b2a7b5f8e941c7db6ac",
+    "revision": "44f4bded3ec6c9f00d21b9c0a89db2f3",
     "url": "/soulbikes/index.html"
   },
   {
-    "revision": "20719b0276e792776d0e",
-    "url": "/soulbikes/static/css/main.0d45f2e5.chunk.css"
+    "revision": "5bc9b339bc39b112d31d",
+    "url": "/soulbikes/static/css/main.a54200ab.chunk.css"
   },
   {
-    "revision": "6d2fc06ee7f0fc288eec",
-    "url": "/soulbikes/static/js/2.86b9cea9.chunk.js"
+    "revision": "6db7a42fa6364f329c8d",
+    "url": "/soulbikes/static/js/2.cb33eb6e.chunk.js"
   },
   {
-    "revision": "20719b0276e792776d0e",
-    "url": "/soulbikes/static/js/main.1a50b242.chunk.js"
+    "revision": "97b5938ef990e58844f0cff8514cc372",
+    "url": "/soulbikes/static/js/2.cb33eb6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99cb3565e11c6e4062fc",
-    "url": "/soulbikes/static/js/runtime~main.57d8eaa4.js"
+    "revision": "5bc9b339bc39b112d31d",
+    "url": "/soulbikes/static/js/main.155726a0.chunk.js"
+  },
+  {
+    "revision": "a34b5a63fd700f58499e",
+    "url": "/soulbikes/static/js/runtime-main.87fb459a.js"
   },
   {
     "revision": "bd113129918454474a90ebf0a264766e",
@@ -206,5 +210,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83548b9d8aea002524157c7e52d9cf5d",
     "url": "/soulbikes/static/media/Soul-zvmetenje-pred.83548b9d.png"
+  },
+  {
+    "revision": "5c570427ee23f69853d28aec805eee79",
+    "url": "/soulbikes/static/media/instagram.5c570427.png"
+  },
+  {
+    "revision": "d492efc706db983e74258dbd348f2208",
+    "url": "/soulbikes/static/media/linkedin.d492efc7.png"
+  },
+  {
+    "revision": "4124591b965c28f15858f58ef1691c0f",
+    "url": "/soulbikes/static/media/result.4124591b.png"
   }
 ]);

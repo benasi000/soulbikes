@@ -3,7 +3,7 @@ import './ImgStrip.css'
 
 const ImgStrip = () => {
   return (
-    <div className='content'>
+    <div className='content1'>
 
     </div>
   )

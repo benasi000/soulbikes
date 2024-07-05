@@ -11,7 +11,7 @@ const Contact = () => {
           e.preventDefault();
       
           emailjs
-            .sendForm('service_9s5odes', 'template_ffzb34g', form.current, {
+            .sendForm('service_9s5odes', 'template_qy8541d', form.current, {
               publicKey: 'orppStexEZQ7lMCfC',
             })
             .then(
@@ -22,6 +22,8 @@ const Contact = () => {
                 console.log('FAILED...', error.text);
               },
             );
+
+            window.location.reload(false);
         };
     return (
         <div className="contact section__padding bg__whitesmoke">

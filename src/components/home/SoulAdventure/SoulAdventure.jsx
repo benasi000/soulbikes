@@ -14,7 +14,7 @@ const SoulAdventure = () => {
        v naši ponudbi zdaj ponujamo organizirane izlete po Karavankah z našimi električnimi kolesi. 
        Na izbiro imate 19 raznih poti...
        </p>
-       <Link to="https://soul-adventure.si" className="btn btn__gold ">Preberi si več</Link>
+       <Link to="http://soul-adventure.si" className="btn btn__gold ">Preberi si več</Link>
      </div>
     </div>
    </div>

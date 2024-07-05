@@ -35,12 +35,11 @@
       "react-app/jest"
     ]
   },
-  "browserslist": 
-    [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
   "compilerOptions": {
     "baseUrl": "src",
     "paths": {
@@ -50,6 +49,10 @@
     }
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "autoprefixer": "^10.4.19",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.39",
+    "postcss-import": "^16.1.0",
+    "tailwindcss": "^3.4.4"
   }
 }
