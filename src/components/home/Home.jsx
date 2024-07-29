@@ -8,7 +8,6 @@ import ImgStrip from './tripImgStrip/ImgStrip'
 import Header from "./Header/Header";
 import Footer from "../Footer/Footer";
 import Card from './Cards/Cards';
-import ScrollButton from './../ScrollButton/ScrollButton';
 import SoulAdventure from './SoulAdventure/SoulAdventure';
 
 const Home = () => {
@@ -22,7 +21,6 @@ const Home = () => {
     <ImgStrip />
     <Contact />
     <SoulAdventure />
-    <ScrollButton />
     <Footer />
    </>
   )

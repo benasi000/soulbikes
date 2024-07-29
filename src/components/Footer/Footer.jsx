@@ -45,7 +45,7 @@ import youtube from "../../assets/images/youtube.png";
 /*footer 2.0*/
 
 const Footer = () => {
-    return(
+    return (
         <div className="footer bg__dark">
             <div className="sb__footer section__padding">
                 <div className="sb__footer-links">
@@ -70,10 +70,10 @@ const Footer = () => {
                     <div className="sb__footer-links-div">
                         <h4>Kmalu na</h4>
                         <div className="socialmedia">
-                            <p><img src={fb} alt=""/></p>
-                            <p><img src={linkedin} alt=""/></p>
-                            <p><img src={instagram} alt=""/></p>
-                            <p><img src={youtube} alt=""/></p>
+                            <p><img src={fb} alt="" /></p>
+                            <p><img src={linkedin} alt="" /></p>
+                            <p><img src={instagram} alt="" /></p>
+                            <p><img src={youtube} alt="" /></p>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ const Footer = () => {
                 <div className="sb__footer-below">
                     <div className="sb__footer-copyright">
                         <p>
-                            @{new Date().getFullYear()} BMDev. All rights reserved.
+                            ©{new Date().getFullYear()} SoulBikes. All rights reserved.
                         </p>
                     </div>
                 </div>

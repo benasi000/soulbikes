@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44f4bded3ec6c9f00d21b9c0a89db2f3",
+    "revision": "48ea8601328c83224c5218bcf8b7705f",
     "url": "/soulbikes/index.html"
   },
   {
-    "revision": "5bc9b339bc39b112d31d",
-    "url": "/soulbikes/static/css/main.a54200ab.chunk.css"
+    "revision": "96485acb4fdc7f277c28",
+    "url": "/soulbikes/static/css/main.ef535fd8.chunk.css"
   },
   {
-    "revision": "6db7a42fa6364f329c8d",
-    "url": "/soulbikes/static/js/2.cb33eb6e.chunk.js"
+    "revision": "ce9bf918012fc944d905",
+    "url": "/soulbikes/static/js/2.f5b30628.chunk.js"
   },
   {
     "revision": "97b5938ef990e58844f0cff8514cc372",
-    "url": "/soulbikes/static/js/2.cb33eb6e.chunk.js.LICENSE.txt"
+    "url": "/soulbikes/static/js/2.f5b30628.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bc9b339bc39b112d31d",
-    "url": "/soulbikes/static/js/main.155726a0.chunk.js"
+    "revision": "96485acb4fdc7f277c28",
+    "url": "/soulbikes/static/js/main.26222cd4.chunk.js"
   },
   {
     "revision": "a34b5a63fd700f58499e",
