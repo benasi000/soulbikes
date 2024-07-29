@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82ee74d2be47cd966ce7ffcf73965be4",
+    "revision": "48ea8601328c83224c5218bcf8b7705f",
     "url": "/soulbikes/index.html"
   },
   {
-    "revision": "caa28fe630028deb1817",
+    "revision": "96485acb4fdc7f277c28",
     "url": "/soulbikes/static/css/main.ef535fd8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soulbikes/static/js/2.f5b30628.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "caa28fe630028deb1817",
-    "url": "/soulbikes/static/js/main.9525c17d.chunk.js"
+    "revision": "96485acb4fdc7f277c28",
+    "url": "/soulbikes/static/js/main.26222cd4.chunk.js"
   },
   {
     "revision": "a34b5a63fd700f58499e",

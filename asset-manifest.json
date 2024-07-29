@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/soulbikes/static/css/main.ef535fd8.chunk.css",
-    "main.js": "/soulbikes/static/js/main.9525c17d.chunk.js",
-    "main.js.map": "/soulbikes/static/js/main.9525c17d.chunk.js.map",
+    "main.js": "/soulbikes/static/js/main.26222cd4.chunk.js",
+    "main.js.map": "/soulbikes/static/js/main.26222cd4.chunk.js.map",
     "runtime-main.js": "/soulbikes/static/js/runtime-main.87fb459a.js",
     "runtime-main.js.map": "/soulbikes/static/js/runtime-main.87fb459a.js.map",
     "static/js/2.f5b30628.chunk.js": "/soulbikes/static/js/2.f5b30628.chunk.js",
     "static/js/2.f5b30628.chunk.js.map": "/soulbikes/static/js/2.f5b30628.chunk.js.map",
     "index.html": "/soulbikes/index.html",
-    "precache-manifest.26eddbe67b65d9bdfeb33c73420e3327.js": "/soulbikes/precache-manifest.26eddbe67b65d9bdfeb33c73420e3327.js",
+    "precache-manifest.b4fa022be8402bd774cdff3b674bf1ed.js": "/soulbikes/precache-manifest.b4fa022be8402bd774cdff3b674bf1ed.js",
     "service-worker.js": "/soulbikes/service-worker.js",
     "static/css/main.ef535fd8.chunk.css.map": "/soulbikes/static/css/main.ef535fd8.chunk.css.map",
     "static/js/2.f5b30628.chunk.js.LICENSE.txt": "/soulbikes/static/js/2.f5b30628.chunk.js.LICENSE.txt",
@@ -67,6 +67,6 @@
     "static/js/runtime-main.87fb459a.js",
     "static/js/2.f5b30628.chunk.js",
     "static/css/main.ef535fd8.chunk.css",
-    "static/js/main.9525c17d.chunk.js"
+    "static/js/main.26222cd4.chunk.js"
   ]
 }

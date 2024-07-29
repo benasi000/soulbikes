@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/soulbikes/precache-manifest.26eddbe67b65d9bdfeb33c73420e3327.js"
+  "/soulbikes/precache-manifest.b4fa022be8402bd774cdff3b674bf1ed.js"
 );
 
 self.addEventListener('message', (event) => {
